@@ -1,0 +1,19 @@
+{
+  "name": "daniel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.6.9",
+    "csv-stringify": "^5.3.0",
+    "csvtojson": "^2.0.10",
+    "fs": "0.0.1-security",
+    "json-2-csv": "^3.5.5",
+    "json2csv": "^4.5.2"
+  }
+}
